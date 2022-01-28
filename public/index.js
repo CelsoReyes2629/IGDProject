@@ -32,6 +32,17 @@ var students = [
       },
       Career: "IDYGS"
     }, 
+    {
+      lname: "Nahum",
+      name: "Reyes",
+      age: 35,
+      birthday: {
+        year: 1986,
+        month: "March",
+        day: 20
+      },
+      Career: "Software development"
+    }
   ]
 
 var table = document.getElementsByTagName("table")[0];
